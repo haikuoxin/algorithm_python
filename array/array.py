@@ -9,7 +9,7 @@ class MyArray(object):
         self.array = [None] * capatity
         self.size = 0
 
-    def inser(self, index, element):
+    def insert(self, index, element):
         pass
 
 
